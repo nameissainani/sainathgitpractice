@@ -1,1 +1,6 @@
 testing file for add, commit, push , cheout from differt branches
+
+
+pull nothing but download all from reposotory
+
+fetch nthing but not to download from repositry once merge is dne it will accept
